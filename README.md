@@ -1,5 +1,4 @@
 # Predict-Catalogue-Demand
-Using Alteryx, we want to predict the expected profit from 250 new customers and determine whether the company catalogue should be sent out to them.
 
 The company manufactures and sells high-end home goods. Last year the company sent out its first print catalog, and is preparing to send out this year's catalog in the coming months. The company has 250 new customers from their mailing list that they want to send the catalog to. 
 
